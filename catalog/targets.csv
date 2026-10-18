@@ -1,0 +1,5 @@
+target_id,target_name,required_stations
+ST-101,Aurora Loop,ALP|BAY|CED
+ST-204,Kestrel Pulsar,ALP|CED
+ST-330,Ember Nebula,BAY|CED
+ST-412,Zenith Arc,ALP|BAY|CED

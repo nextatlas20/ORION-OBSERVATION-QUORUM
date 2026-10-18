@@ -1,0 +1,16 @@
+observation_id,target_id,station,revision,captured_at,digest,operator
+OB-001,ST-101,ALP,1,2154-09-01T01:00:00Z,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,Inez
+OB-002,ST-101,BAY,1,2154-09-01T01:04:00Z,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,Malik
+OB-003,ST-101,CED,1,2154-09-01T01:08:00Z,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,Oona
+OB-004,ST-204,ALP,3,2154-09-02T02:00:00Z,cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc,Inez
+OB-005,ST-204,CED,2,2154-09-02T02:05:00Z,dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd,Oona
+OB-006,ST-330,BAY,1,2154-09-03T03:00:00Z,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,Malik
+OB-007,ST-412,ALP,1,2154-09-04T04:00:00Z,ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff,Inez
+OB-008,ST-412,ALP,2,2154-09-04T05:00:00Z,9999999999999999999999999999999999999999999999999999999999999999,Inez
+OB-009,ST-412,BAY,1,2154-09-04T04:58:00Z,9999999999999999999999999999999999999999999999999999999999999999,Malik
+OB-010,ST-412,CED,1,2154-09-04T04:59:00Z,9999999999999999999999999999999999999999999999999999999999999999,Oona
+OB-011,ST-330,CED,0,2154-09-03T03:02:00Z,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,Oona
+OB-012,ST-999,ALP,1,2154-09-05T01:00:00Z,1111111111111111111111111111111111111111111111111111111111111111,Inez
+OB-013,ST-330,CED,1,2154-10-01T00:00:00Z,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,Oona
+OB-014,ST-204,ALP,4,2154-09-02T03:00:00Z,cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc,Inez
+OB-014,ST-204,CED,4,2154-09-02T03:01:00Z,cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc,Oona

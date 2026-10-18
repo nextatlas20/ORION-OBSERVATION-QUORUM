@@ -1,0 +1,4 @@
+ORION ARRAY QUORUM POLICY
+Cutoff: 2154-09-30T23:59:59Z
+A complete target is certified only when one selected digest has at least two observations and strictly more observations than every other selected digest.
+Evidence exports are sealed and must remain byte-for-byte unchanged.
