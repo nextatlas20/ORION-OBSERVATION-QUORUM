@@ -1,0 +1,5 @@
+target_id,target_name,required_stations,selected_stations,winning_digest,supporting_stations,dissenting_stations,status
+ST-101,Aurora Loop,ALP|BAY|CED,3,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,2,1,CERTIFIED
+ST-204,Kestrel Pulsar,ALP|CED,2,,1,1,NO_QUORUM
+ST-330,Ember Nebula,BAY|CED,1,,0,0,INCOMPLETE
+ST-412,Zenith Arc,ALP|BAY|CED,3,9999999999999999999999999999999999999999999999999999999999999999,3,0,CERTIFIED
